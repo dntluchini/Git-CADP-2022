@@ -1,0 +1,8 @@
+Dato compuesto def x el programador
+Coleccion de nodos donde cada nodo tiene un elemento y la direccion del proximo nodo. Cada nodo se representa con una direccion de memoria.
+HOMOGENEA,DINAMICA,LINEAL,SECUENCIAL.
+HOMOGENEA : Todos elementos del mismo tipo
+DINAMICA : La cant de nodos puede variar durante la ejecucion.
+LINEAL : Cada nodo tiene un unico antecesor y sucesor.
+SECUENCIAL : El acceso a los elementos es secuencial. 
+Construimos la lista a partir de punteros.

@@ -1,0 +1,1 @@
+-Hacer mini modulos segun los incisos para que a la hora de recorrer la lista / vector se haga mas facil y prolijo el modulo propio
